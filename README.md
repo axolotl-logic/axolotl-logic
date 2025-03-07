@@ -1,7 +1,7 @@
 
 # 🌐 Behold the Axolotl of Logic
 
-I am a researcher and software engineer obsessed with local-first architecture, [productivity apps Work Time](https://github.com/axolotl-logic/work-time)] for neurodivergent individuals like myself, and chess ([ChessCoven.com](https://github.com/axolotl-logic/chesscoven), [Massive PGNs to CSV](https://github.com/axolotl-logic/pgne3k)).
+I am a researcher and software engineer obsessed with local-first architecture, writing [time management apps](https://github.com/axolotl-logic/work-time) for neurodivergent individuals like myself, and chess programming (see: [chesscoven.com](https://github.com/axolotl-logic/chess-coven) or [massive pgn to csv conversion](https://github.com/axolotl-logic/pgne3k).
 
 ![](https://github-readme-stats.vercel.app/api?username=axolotl-logic&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -19,3 +19,7 @@ Here are some technologies I enjoy using when the occasion calls for it. I like 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
+
+# Work and Collaboration
+
+Feel free to reach out here or email me@axolotl-logic.io
