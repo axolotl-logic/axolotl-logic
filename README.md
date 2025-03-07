@@ -14,7 +14,7 @@ Here are some technologies I enjoy using when the occasion calls for it. I like 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
-[Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
