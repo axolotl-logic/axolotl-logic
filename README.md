@@ -1,6 +1,6 @@
 # 🌐 Behold the Axolotl of Logic
 
-I am a software engineer obsessed with software verification, DevSecOps, and open source software.
+I am a software engineer obsessed with software verification, DevSecOps, and open source local-first software.
 
 Check out my [shared work timer](https://github.com/axolotl-logic/axolotl-time) for neurodivergent individuals like myself. Like chess? Hop over to [chesscoven.com](https://chesscoven.com)  or see [the source](https://github.com/axolotl-logic/chess-coven). What about process massive PGN datasets? Check out [axolotl-pgn](https://github.com/axolotl-logic/axolotl-pgn)).
 
