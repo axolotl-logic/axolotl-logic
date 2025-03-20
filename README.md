@@ -1,7 +1,9 @@
 
 # 🌐 Behold the Axolotl of Logic
 
-I am a researcher and software engineer obsessed with software verification, DevSecOps, and open source software. My current portfolio of personal projects include [time management apps](https://github.com/axolotl-logic/work-time) for neurodivergent individuals like myself, and chess programming (see: [chesscoven.com](https://github.com/axolotl-logic/chess-coven) or [massive pgn to csv conversion](https://github.com/axolotl-logic/pgne3k)).
+I am a researcher and software engineer obsessed with software verification, DevSecOps, and open source software.
+
+Check out my [shared work timer](https://github.com/axolotl-logic/axolotl-time) for neurodivergent individuals like myself. Like chess? Hop over to [chesscoven.com](https://chesscoven.com)  or see [the source](https://github.com/axolotl-logic/chess-coven). What about process massive PGN datasets? Check out [axolotl-pgn](https://github.com/axolotl-logic/axolotl-pgn)).
 
 ![](https://github-readme-stats.vercel.app/api?username=axolotl-logic&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
